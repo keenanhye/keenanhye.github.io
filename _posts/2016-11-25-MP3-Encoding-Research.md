@@ -1,5 +1,5 @@
 ---
-title:  "Research on Subjective Quality Preference of Compressed Music"
+title:  "Research on Subjective Quality of MP3 Encoded Music"
 date:   2016-11-25 15:04:23
 categories: [about]
 tags: []
@@ -9,7 +9,7 @@ tags: []
 Having forked over my email address to the likes of [Tidal](http://tidal.com/) - a music streaming service that promises higher quality music streaming than Spotify - in return for an early stream of "The Life of Pablo," I was eager to see if I could actually tell the difference between Spotify's and Tidal's audio streaming quality. Of course, I thought I could tell the difference - but could I tell the two apart without knowing which service I was listening to?
 
 
-I had been discussing independent research with a professor at Northeastern, and we thought this would be a great topic to investigate. Throughout 2016, we have been working on this research project, though we are still not finished writing the final draft of our results. However, I think it worthwhile to summarize the bulk of our findings. Below is a rather involved synopsis of our experiment and its results.
+I had been discussing independent research with a professor at Northeastern, and we thought this would be a great topic to investigate. Throughout 2016, we have been working on this research project, though we are still not finished writing the final draft of our results. However, I think it worthwhile to summarize the bulk of our findings. Below is a rather involved synopsis of our experiment and its results -  the short version is that **even relatively low bit rate MP3's are very difficult to distinguish from CD-quality audio**
 
 _______
 
@@ -39,11 +39,9 @@ This gave us audio files of four different bit rates for each environment (loud+
 
 Participants were forced to choose which audio file they preferred out of a "match-up" of two bit rates in a given environment and for a given song. Thus, for that given environment and song, if we don't see a trend towards either bit rate being consistently preferred after repeated match-up's, we can conclude that the listener has an equal preference for each bit rate - in other words, that they can't tell the difference between the two given encoding bit rates for that particular environment and song.
 
-Below is an early depiction of our results, averaged across participants:
+<!--![results](/images/portfolio-pics/research-plots.jpg)-->
 
-![results](/images/portfolio-pics/research-plots.jpg)
-
-These results indicated that, as expected, there was almost unanimous preference for bit rates greater than 32 kbps - we expected this. We had included the 32 kbps files as "controls", since they are quite obviously low-quality. [Here is American Idiot at 32 kbps](/sounds/green-day-32.mp3) - pretty rough stuff. We included these to make sure our participants were not guessing randomly.
+Our results indicated that, as expected, there was almost unanimous preference for bit rates greater than 32 kbps - we expected this. We had included the 32 kbps files as "controls", since they are quite obviously low-quality. [Here is American Idiot at 32 kbps](/sounds/green-day-32.mp3) - pretty rough stuff. We included these to make sure our participants were not guessing randomly.
 
 However, besides our control case, under almost *all* environments and songs, listeners could not distinguish the lossless audio from the MP3 audio, even for our 96 kbps MP3 files under loud+noiseless conditions. Only a few exceptions existed, and even for these exceptions, counter-intuitively, participants preferred the MP3 audio to the lossless file. In our paper, we discuss various reasons this might have been the case.
 
