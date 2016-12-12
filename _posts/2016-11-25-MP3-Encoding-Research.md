@@ -13,7 +13,7 @@ I had been discussing independent research with a professor at Northeastern, and
 
 _______
 
-Most popular streaming services, such as Spotify, delete more than nine tenths of the audio data in a song through a process known as lossy data compression. The files that result are called lossy audio files, as opposed to lossless, or CD-quality files. While it may be true that a few superior listeners can tell the difference between lossy MP3 encoded audio files and their lossless counterparts in a high quality listening environment, [studies have shown]() that the average listener usually cannot tell the difference. Moreover, modern streaming services are most used in public places rife with background noise.
+Most popular streaming services, such as Spotify, delete more than nine tenths of the audio data in a song through a process known as lossy data compression. The files that result are called lossy audio files, as opposed to lossless, or CD-quality files. While it may be true that a few superior listeners can tell the difference between lossy MP3 encoded audio files and their lossless counterparts in a high quality listening environment, [studies have shown](http://www.ingelec.uns.edu.ar/pds2803/Materiales/Articulos/EffectOfMP3Encoding.pdf) that the average listener usually cannot tell the difference. Moreover, modern streaming services are most used in public places rife with background noise.
 
 My research team and I hypothesized that discerning between lossy and lossless audio would be more difficult in realistic noisy listening environments, so we wanted to explore the effect of signal to noise ration on lossy and lossless subjective quality preferences. We also wanted to see if listening volume had an effect on preference decisions.
 
