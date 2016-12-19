@@ -1,5 +1,5 @@
 ---
-title:  "Senior Capstone Project"
+title:  "Microphone Array for Hearing Impaired Lecturers"
 date:   2015-12-01 15:04:23
 categories: [about]
 tags: []
