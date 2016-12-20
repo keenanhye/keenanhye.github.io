@@ -6,7 +6,7 @@ tags: []
 ---
 
 
-During my time at Bose, I was fortunate to be working on an independent feasibility study on an adaptive equalization algorithm.
+During my time at Bose, I was fortunate to be working on an independent feasibility study for an adaptive equalization algorithm.
 
 The algorithm would, in essence, compensate for measured abnormalities in a given listening room via output filtering. I was tasked with creating the algorithm and then testing it to see if such a system was feasible with limited involvement from the user.
 

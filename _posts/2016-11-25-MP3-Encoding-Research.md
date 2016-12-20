@@ -41,12 +41,12 @@ Participants were forced to choose which audio file they preferred out of a "mat
 
 <!--![results](/images/portfolio-pics/research-plots.jpg)-->
 
-Our results indicated that, as expected, there was almost unanimous preference for bit rates greater than 32 kbps - we expected this. We had included the 32 kbps files as "controls", since they are quite obviously low-quality. [Here is American Idiot at 32 kbps](/sounds/green-day-32.mp3) - pretty rough stuff. We included these to make sure our participants were not guessing randomly.
+Our results clearly indicated that there was almost unanimous preference for bit rates greater than 32 kbps - we expected this, having included the 32 kbps files as obviously low-quality "controls". [Here is American Idiot at 32 kbps](/sounds/green-day-32.mp3) - pretty rough stuff. We included these to make sure our participants were not guessing randomly.
 
-However, besides our control case, under almost *all* environments and songs, listeners could not distinguish the lossless audio from the MP3 audio, even for our 96 kbps MP3 files under loud+noiseless conditions. Only a few exceptions existed, and even for these exceptions, counter-intuitively, participants preferred the MP3 audio to the lossless file. In our paper, we discuss various reasons this might have been the case.
+However, besides our control case, under almost *all* environments and songs, listeners could not distinguish the lossless audio from the MP3 audio, even for our 96 kbps MP3 files under high listening intensity and low-noise conditions. Only a few exceptions existed, and even for these exceptions, counter-intuitively, participants preferred the MP3 audio to the lossless file. In our paper, we hypothesize as to why this was the case.
 
-Our results are another strong showing for the impressive lossy MP3 compression scheme, and a bit of bad news for the likes of [Tidal](http://tidal.com/us) and [Pono](https://www.ponomusic.com/) (sorry Jay Z and Neil Young... I still like your music...). Suffice it to say, I am bouncing all my preliminary mixes as 320 kbps MP3 files now.
+Our results are another strong showing for the impressive lossy MP3 compression scheme, and a bit of bad news for the likes of [Tidal](http://tidal.com/us) and [Pono](https://www.ponomusic.com/) (sorry Jay Z and Neil Young... I still like your music...). Suffice it to say, I am bouncing all my preliminary mixes as 320 kbps MP3 files now, and saving quite a bit of Google Drive space.
 
 I hope to post a few different audio files here at some point so that you can try hearing the difference yourself! I promise it's very difficult.
 
-As the paper is finalized, I will post it here, and clean this up a little. Hopefully we will be able to publish our findings soon!
+As the paper is finalized, I will post it here, and clean this up a little. We are hoping to publish our findings in full soon.

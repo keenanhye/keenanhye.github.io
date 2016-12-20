@@ -10,6 +10,7 @@ In January of 2016, I founded my own mastering service, [Get Mastered](https://g
 My Get Mastered colleagues and I regularly meet and build upon each others skills, which is a truly rewarding learning experience. I also built and designed the website myself, which was a great independent learning experience.
 
 Here's our landing page:
+
 <a href="https://getmastered.com" target="_blank">
 ![](/images/portfolio-pics/getmastered.png)
 </a>

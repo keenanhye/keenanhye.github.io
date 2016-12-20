@@ -5,11 +5,11 @@ categories: [about]
 tags: []
 ---
 
-During my senior year at [Northeastern](https://www.northeastern.edu/), I created a microphone array listening system for hearing-impaired professors with my Capstone team. Our final design included a nested array placed in the front of the classroom, that each honed in on a given direction via a spotlight system, as visualized below:
+During my senior year at [Northeastern](https://www.northeastern.edu/), I created a microphone array listening system for hearing-impaired professors with my Capstone team. Our final design included a nested array placed in the front of the classroom, that honed in on a given direction via a spotlight system, as visualized below:
 
 ![spotlight](/images/portfolio-pics/sass-classroom.png)
 
-Our array worked to specifically enhance important frequencies in the human speech signal, and amplify students at a long range (a particular difficulty of modern hearing aids). Below is the signal flow diagram for our array system:
+Our array worked to specifically enhance important frequencies in the human speech signal, and amplify students at a long range (a particular difficulty of modern hearing aids). Below is the basic signal flow diagram for our array system:
 
 ![signal](/images/portfolio-pics/sass-signal-flow.png)
 
