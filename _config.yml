@@ -9,7 +9,7 @@ baseurl: '/'
 author:
   name: 'Keenan Hye'
   email: keenan.hye@gmail.com
-  facebook_username: keenanhi
+  # facebook_username: keenanhi
   # github_username:  keenanhye
   linkedin_username:  keenanhye
   music_link: whoisyohannes
