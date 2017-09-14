@@ -18,7 +18,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  if (window.location.pathname !== '/') {
+  if (window.location.pathname !== 'http://keenanhye.com/') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
