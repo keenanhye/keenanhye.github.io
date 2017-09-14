@@ -14,13 +14,13 @@ $(document).ready(function () {
     }
   })
 
-  if (location.pathname == '/about-me/') {
+  if (window.location.hash && window.location.hash == '#blog') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  // if (window.location.pathname !== 'http://keenanhye.com/') {
-  //   $('.panel-cover').addClass('panel-cover--collapsed')
-  // }
+  if (window.location.pathname !== '/' && window.location.pathname !== '/index.html') {
+    $('.panel-cover').addClass('panel-cover--collapsed')
+  }
 
   $('.btn-mobile-menu').click(function () {
     $('.navigation-wrapper').toggleClass('visible animated bounceInDown')
