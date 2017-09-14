@@ -14,7 +14,7 @@ $(document).ready(function () {
     }
   })
 
-  if (window.location.pathname == 'http://keenanhye.com/about-me/' || window.location.pathname == 'http://keenanhye.com/about-me/') {
+  if (location.pathname == '/about-me/') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
