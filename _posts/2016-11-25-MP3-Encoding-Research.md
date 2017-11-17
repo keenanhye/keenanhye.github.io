@@ -50,3 +50,5 @@ Our results are another strong showing for the impressive lossy MP3 compression 
 I hope to post a few different audio files here at some point so that you can try hearing the difference yourself! I promise it's very difficult.
 
 As the paper is finalized, I will post it here, and clean this up a little. We are hoping to publish our findings in full soon.
+
+*UPDATE: From a multitude of difficulties after the completion of the study, we were unfortunately never able to publish our findings. [Here is a link to the most recent draft of the paper](/Hye-2016-Low-Bit-Rate-MP3-Audio.pdf)*
