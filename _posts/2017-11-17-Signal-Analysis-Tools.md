@@ -10,17 +10,19 @@ Throughout my time at Penn State, I have been accruing quite a few useful signal
 Here are a few of the more useful ones, which I plan to update as I progress through my masters program:
 
 * [Autocorr.m](/matlab/Autocorr.m)
-	* Computes the autocorrelation of a mono discrete time waveform
+	* Computes the autocorrelation of a mono discrete time signal
 * [constQFilt.m](/matlab/constQFilt.m)
 	* Creates a constant Q filter with given parameters
 * [corrCoeff.m](/matlab/corrCoeff.m)
 	* Computes the correlation coefficient from a cross correlation vector
 * [Crosscor2delay.m](/matlab/Crosscor2delay.m)
-	* Finds the delay from a cross corrlation vector by finding the delay of a peak correlation value relative to the input mono discrete time waveform x[n].
+	* Finds the delay from a cross corrlation vector by finding the delay of a peak correlation value relative to the input mono discrete time signal x[n].
+* [Crosscorr.m](/matlab/Crosscorr.m)
+	* Computes the cross-correlation of two mono discrete time signal.
 * [spectro.m](/matlab/spectro.m)
 	* Creates a spectrogram with variable parameters and time/frequency resolution
 * [time2CrossPSD.m](/matlab/time2CrossPSD.m)
-	* Finds the cross power spectral density between two mono discrete time waveforms
+	* Finds the cross power spectral density between two mono discrete time signals
 * [time2PSD.m](/matlab/time2PSD.m)
 	* This function converts a discrete time signal to a single-sided power spectral density
 * [time2PSD2side.m](/matlab/time2PSD.m)
@@ -28,7 +30,7 @@ Here are a few of the more useful ones, which I plan to update as I progress thr
 * [time2PSDAvg.m](/matlab/time2PSDAvg.m)
 	* This function converts a discrete time signal to a time-averaged single-sided power spectral density
 * [time2PSDAvgAdvanced.m](/matlab/time2PSDAvgAdvanced.m)
-	* Same as time2PSDAvg with the option to window and overlap time-average records
+	* Same as time2PSDAvg.m with the option to window and overlap time-average records
 
 
 
